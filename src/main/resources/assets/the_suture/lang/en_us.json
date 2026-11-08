@@ -1,0 +1,13 @@
+{
+  "entity.the_suture.suture": "The Suture",
+  "item.the_suture.suture_spawn_egg": "The Suture",
+  "subtitles.the_suture.ghost_step": "Unnerving footsteps nearby",
+  "subtitles.the_suture.stalker_breathing": "Shallow, ragged breath",
+  "subtitles.the_suture.bone_snap": "Sickening bone crack",
+  "subtitles.the_suture.demonic_whisper": "Unintelligible dark whispers",
+  "subtitles.the_suture.heartbeat_panic": "Frantic heartbeat",
+  "subtitles.the_suture.tinnitus_screech": "Deafening acoustic ringing",
+  "subtitles.the_suture.proximity_drone": "Unstoppable dread reverberation",
+  "subtitles.the_suture.chase_screech": "Colossal unholy screech",
+  "subtitles.the_suture.jumpscare_screech": "Deafening sonic tear"
+}

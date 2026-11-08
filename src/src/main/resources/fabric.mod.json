@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "the_suture",
+  "version": "${version}",
+  "name": "The Suture",
+  "description": "A psychological dread, relentless stalker, and atmospheric horror mod featuring The Suture entity.",
+  "authors": [
+    "VibraX Dev Studio™"
+  ],
+  "contact": {
+    "homepage": "https://www.youtube.com/@VibraX-Dev_Studio"
+  },
+  "license": "MIT",
+  "icon": "assets/the_suture/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.thesuture.mod.TheSutureMod"
+    ],
+    "client": [
+      "com.thesuture.mod.client.TheSutureClientMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

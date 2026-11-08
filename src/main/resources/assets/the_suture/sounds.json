@@ -1,0 +1,190 @@
+{
+  "entity.suture.ambient": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.sniff",
+        "pitch": 0.35,
+        "volume": 1.2
+      },
+      {
+        "name": "minecraft:ambient.crimson_forest.mood",
+        "pitch": 0.4,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:entity.enderman.ambient",
+        "pitch": 0.25,
+        "volume": 0.9
+      }
+    ]
+  },
+  "entity.suture.hurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.hurt",
+        "pitch": 0.35,
+        "volume": 1.2
+      },
+      {
+        "name": "minecraft:entity.iron_golem.damage",
+        "pitch": 0.4,
+        "volume": 1.0
+      }
+    ]
+  },
+  "entity.suture.death": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.death",
+        "pitch": 0.3,
+        "volume": 1.5
+      }
+    ]
+  },
+  "effect.ghost_step": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "minecraft:block.deepslate.step",
+        "pitch": 0.5,
+        "volume": 1.2
+      },
+      {
+        "name": "minecraft:block.bone_block.step",
+        "pitch": 0.6,
+        "volume": 1.2
+      }
+    ]
+  },
+  "sound.bone_snap": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "minecraft:block.bone_block.break",
+        "pitch": 0.45,
+        "volume": 1.4
+      },
+      {
+        "name": "minecraft:entity.skeleton.ambient",
+        "pitch": 0.3,
+        "volume": 1.2
+      }
+    ]
+  },
+  "sound.demonic_whisper": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "minecraft:entity.elder_guardian.ambient",
+        "pitch": 0.35,
+        "volume": 1.2
+      },
+      {
+        "name": "minecraft:ambient.soul_sand_valley.mood",
+        "pitch": 0.5,
+        "volume": 1.5
+      },
+      {
+        "name": "minecraft:entity.phantom.ambient",
+        "pitch": 0.25,
+        "volume": 1.0
+      }
+    ]
+  },
+  "sound.heartbeat_panic": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.heartbeat",
+        "pitch": 0.75,
+        "volume": 1.6
+      },
+      {
+        "name": "minecraft:entity.warden.heartbeat",
+        "pitch": 1.1,
+        "volume": 1.8
+      }
+    ]
+  },
+  "sound.tinnitus_screech": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "minecraft:ambient.cave",
+        "pitch": 1.8,
+        "volume": 1.5
+      },
+      {
+        "name": "minecraft:entity.blaze.shoot",
+        "pitch": 0.2,
+        "volume": 1.0
+      }
+    ]
+  },
+  "sound.proximity_drone": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.heartbeat",
+        "pitch": 0.5,
+        "volume": 1.4
+      },
+      {
+        "name": "minecraft:ambient.crimson_forest.mood",
+        "pitch": 0.35,
+        "volume": 1.6
+      },
+      {
+        "name": "minecraft:entity.elder_guardian.curse",
+        "pitch": 0.25,
+        "volume": 1.4
+      }
+    ]
+  },
+  "sound.chase_screech": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "minecraft:entity.enderman.scream",
+        "pitch": 0.3,
+        "volume": 2.0
+      },
+      {
+        "name": "minecraft:entity.warden.roar",
+        "pitch": 0.45,
+        "volume": 2.0
+      },
+      {
+        "name": "minecraft:entity.ghast.scream",
+        "pitch": 0.25,
+        "volume": 1.8
+      }
+    ]
+  },
+  "jumpscare.stinger": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "minecraft:entity.warden.sonic_boom",
+        "pitch": 1.0,
+        "volume": 2.5,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:block.anvil.land",
+        "pitch": 0.25,
+        "volume": 2.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:entity.lightning_bolt.thunder",
+        "pitch": 0.4,
+        "volume": 2.0,
+        "attenuation_distance": 96
+      }
+    ]
+  }
+}
